@@ -1,6 +1,6 @@
 ---
 title: Three large sets of random numbers
-author: You
+author: Mengke
 output: html_document
 ---
 
